@@ -22,4 +22,4 @@ This Spring Boot project showcases JWT (JSON Web Token) authentication and autho
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/spring-boot-jwt-auth.git
+   git clone https://github.com/Joe-muraguri/spring-boot-jwt-auth.git
